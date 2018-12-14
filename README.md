@@ -6,7 +6,7 @@ Flask==1.0.2
 Flask-JWT==0.3.2
 Flask-RESTful==0.3.6
 Flask-SQLAlchemy==2.3.2
-'''
+
 ## Run
 Run app.py file
 ## Description
