@@ -1,7 +1,7 @@
 # My API
 
 ## Installed libraries
-'''
+
 Flask==1.0.2
 Flask-JWT==0.3.2
 Flask-RESTful==0.3.6
